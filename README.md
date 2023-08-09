@@ -1,41 +1,13 @@
 # Quasar App (quasar-project)
 
-A Quasar Project
+This is my new Quasar Development Project. I've only been coding for a few months and I'm using GPT to help me learn.
 
-## Install the dependencies
-```bash
-yarn
-# or
-npm install
-```
+Inside of the src folder you'll find my Pages and Routes
 
-### Start the app in development mode (hot-code reloading, error reporting, etc.)
-```bash
-quasar dev
-```
+In the router folder and Routes.js you'll find the routes I use for my pages and layout
 
+My mainlayout is inside the layouts folder
 
-### Lint the files
-```bash
-yarn lint
-# or
-npm run lint
-```
+and my Forms / Tables / Tasks tabs are in their respective files under the pages folder
 
-
-### Format the files
-```bash
-yarn format
-# or
-npm run format
-```
-
-
-
-### Build the app for production
-```bash
-quasar build
-```
-
-### Customize the configuration
-See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-vite/quasar-config-js).
+My Webpage file is the main page file that holds the tabs referenced above.
